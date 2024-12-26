@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Personal window manager**
+ 🔭 I’m currently working on **c++ integration with python**
  
- 🌱 I’m currently learning **kivy, c++, nodejs**
+ 🌱 I’m currently learning **pybind11, c++**
 
-💬 Ask me about **Tkinter, Django, Sqlite... or anything [here](https://github.com/Yegon-David/Yegon-David/issues)**
+💬 Ask me about **Tkinter, Django,reportlab,python,(html,css,js), Sqlite... or anything [here](https://github.com/Yegon-David/Yegon-David/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Earth’s rotation is changing speed. It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours.**
 
  </div>
  
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,django,html,css,vscode,github,tailwind,git,r" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,django,html,css,vscode,github,git,r" /><br>
+    <img src="https://skillicons.dev/icons?i=c++,python,javascript,mysql,flask" /><br>
 </div>
 
 <br/>
