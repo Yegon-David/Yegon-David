@@ -27,9 +27,9 @@
   <a href="https://www.linkedin.com/in/david-yegon-0926a3276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://Yegon-David.github.io" >
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<!--   <a href="https://Yegon-David.github.io" >
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  </a> -->
 </div>
 
  <hr/>
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,django,html,css,vscode,github,git,r" /><br>
-    <img src="https://skillicons.dev/icons?i=c++,python,javascript,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=c++,python,javascript,mysql,flask,cmake,Makefile" /><br>
 </div>
 
 <br/>
